@@ -5,11 +5,6 @@
 *.ipr
 /out
 
-
-# Default ignored files
-/shelf/
-/workspace.xml
-
 # Compiled class file
 *.class
 
